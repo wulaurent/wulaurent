@@ -96,7 +96,7 @@
 </p>
 
 <!-- Connection -->
-<h2> Contactez moi <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+<h2> Contactez moi <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/handshake.gif" height="35px"></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/laurent-wu-3461901a5/" target="_blank">
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linkedin.png" alt="linkedin" height="auto" width="40"/></code>
