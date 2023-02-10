@@ -8,7 +8,7 @@
 <p align="center">
   <b>Je suis passionné par le développement informatique et la géomatique</b>
 </p>
-
+<br>
 
 - ♑ Je suis doté d'une créativité, d'une curiosité insatiable et je suis autodidacte. Je prends plaisir à découvrir de nouvelles technologies et à développer en permanence de nouvelles compétences.
 - 📓 Je suis étudiant à l'[Université Paris 8](https://www.univ-paris8.fr/-Master-Geomatique-Geodecisionnel-Geomarketing-et-Multimedia-G2M-).
