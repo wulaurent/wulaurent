@@ -77,8 +77,6 @@
 <br>
 <br>
 
-<br>
-<br>
 
 <p align="center">
   <b>Logiciel SIG</b>
