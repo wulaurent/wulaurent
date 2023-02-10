@@ -2,7 +2,7 @@
     <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github.png" alt="GitHub" height="200"> 
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Salut,+c'est+Laurent+%F0%9F%91%8B;Développeur+SIG+Étudiant;Fullstack;SIG+Webmapping+Géodatabase;QGIS+ArcGis" alt="header" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Salut,+c'est+Laurent+%F0%9F%91%8B;Développeur+SIG+Étudiant;Développement+Fullstack;SIG+Webmapping+Géodatabase;QGIS+ArcGis" alt="header" />
 </div>
 <br>
 <p align="center">
