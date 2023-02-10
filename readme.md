@@ -67,7 +67,7 @@
   </a>
   <br>
   <a href="https://developers.arcgis.com/javascript/latest/" target="_blank">
-    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/arcgis.svg" alt="SDK ArcGis" height="40"/></code>
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/arcgis.png" alt="SDK ArcGis" height="40"/></code>
   </a>
   <a href="https://fr.wikipedia.org/wiki/QGIS" target="_blank">
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/qgis.png" alt="Qgis" height="40"/></code>
