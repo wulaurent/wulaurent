@@ -81,7 +81,7 @@
 <br>
 
 <p align="center">
-  <b>Other</b>
+  <b>Logiciel SIG</b>
   <br>
   <br>
   <a href="https://www.esrifrance.fr/produits/arcgis.aspx" target="_blank">
