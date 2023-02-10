@@ -16,7 +16,7 @@
 - 🌱 Je me focus actuellement sur le **développement web SIG (Openlayers/ Mapbox/ Leaflet)** et pratique régulièrement le **développement Backend** et **l'intelligence artificielle**.
 - N'hésitez pas à mettre un ❤ ou une ⭐ à mes repository 😄.
 
-<h2>Compétences techniques</h2>
+<h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
 
 <p align="center">
   <b>Langages de programmation</b>
