@@ -13,7 +13,7 @@
 - ♑ Je suis doté d'une créativité, d'une curiosité insatiable et je suis autodidacte. Je prends plaisir à découvrir de nouvelles technologies et à développer en permanence de nouvelles compétences.
 - 📓 Je suis étudiant à l'[Université Paris 8](https://www.univ-paris8.fr/-Master-Geomatique-Geodecisionnel-Geomarketing-et-Multimedia-G2M-).
 - 👨🏻‍💻 Je travaile à [Covéa](https://www.covea.eu/fr) en tant que `Développeur SIG`.
-- 🌱 Je me focus actuellement sur le **développement web SIG (Openlayers/ Mapbox/ Leaflet)** et pratique régulièrement le **développement Backend** et **l'intelligence artificielle**.
+- 🌱 Je me focus actuellement sur le **développement web SIG (Openlayers/ Mapbox/ Leaflet)** en React et pratique régulièrement le **développement Backend** et **l'intelligence artificielle**.
 - N'hésitez pas à mettre un ❤ ou une ⭐ à mes repository 😄.
 
 <h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
