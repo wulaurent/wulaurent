@@ -53,6 +53,9 @@
   <a href="https://fr.reactjs.org/" target="_blank">
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" alt="ReactJS" height="35"/></code>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/typescript.png" alt="TypeScript" height="35"/></code>
+  </a>
 </p>
 
 <br>
@@ -90,6 +93,28 @@
   </a>
   <a href="https://fr.wikipedia.org/wiki/QGIS" target="_blank">
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/qgis.png" alt="Qgis" height="40"/></code>
+  </a>
+  <a href="https://www.orfeo-toolbox.org/" target="_blank">
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/otb.png" alt="OTB" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Database</b>
+  <br>
+  <br>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" alt="PostgreSql" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://postgis.net/" target="_blank">
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgis.png" alt="PostGIS" height="40"/></code>
+  </a>
+  <a href="https://sql.sh/" target="_blank">
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.png" alt="SQL" height="40"/></code>
   </a>
 </p>
 
