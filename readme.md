@@ -114,7 +114,7 @@
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgis.png" alt="PostGIS" height="40"/></code>
   </a>
   <a href="https://sql.sh/" target="_blank">
-    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.png" alt="SQL" height="60"/></code>
+    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.svg" alt="SQL" height="40"/></code>
   </a>
 </p>
 
