@@ -18,7 +18,7 @@
 
 <h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
 
-<h5>Langages de programmation</h5>
+<h3>Langages de programmation</h3>
 
 <table>
   <tr>
