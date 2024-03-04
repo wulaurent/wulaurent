@@ -143,7 +143,7 @@
     </tr>
 </table>
 
-<h2> Statistique <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistic.gif" height="35px">
+<h2> Statistique <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistic.gif" height="35px"></h2>
 <br>
 <p align=center>
   <div align=center>
@@ -155,7 +155,6 @@
     </a>
   </div>
 </p>
-</h2>
 
 <h2> Contactez moi <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistics.gif" height="35px"></h2>
 <p align="center">
