@@ -118,7 +118,7 @@
 
 <table>
   <tr>
-      <td align="center" width="450">
+      <td align="center" width="440">
           <b>Base de données</b>
       </td>
       <td align="center">
@@ -147,7 +147,7 @@
 
 <table>
   <tr>
-      <td align="center" width="500">
+      <td align="center" width="470">
           <b>Système d'exploitation</b>
       </td>
       <td align="center">
