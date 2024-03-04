@@ -20,41 +20,22 @@
 
 <table>
   <tr>
-      <td align="center">
+      <td align="center" width="395">
           <b>Langage de programmation Favori</b>
-          <table width="100">
-              <tr width="1000">
+      </td>
+      <td align="center">
+          <table>
+              <tr>
                   <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
                   <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
                   <th><a href="https://fr.reactjs.org/">React</a></th>
                   <th><a href="https://www.postgresql.org/">SQL</a></th>
               </tr>
               <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
-                  </td>
-              </tr>
-          </table>
-      </td>
-      <td align="center">
-          <b>Système d'exploitation</b>
-          <table>
-              <tr>
-                <th><a href="https://www.microsoft.com/fr-fr/windows">Windows</a></th>
-                <th><a href="https://www.linux.org/">Linux (Ubuntu)</a></th>
-              </tr>
-              <tr align="center">
-                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/windows.png" height="40"></td>
-                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linux.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40"></td>
               </tr>
           </table>
       </td>
@@ -63,8 +44,10 @@
 
 <table>
   <tr>
+    <td align="center" width="300">
+      <b>Langages Frontend</b>
+    </td>
     <td align="center">
-      <b>Frontend</b>
       <table>
          <tr>
           <th><a href="https://developer.mozilla.org/fr/docs/Web/HTML">HTML</a></th>
@@ -82,8 +65,15 @@
         </tr>
       </table>
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="420">
+      <b>Langages Backend</b>
+    </td>
     <td align="center">
-      <b>Backend</b>
       <table>
          <tr>
           <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
@@ -104,8 +94,10 @@
 
 <table>
   <tr>
-      <td align="center">
+      <td align="center" width="420">
           <b>Logiciel SIG</b>
+      </td>
+      <td align="center">
           <table>
               <tr>
                   <th><a href="https://fr.wikipedia.org/wiki/QGIS">QGIS</a></th>
@@ -114,23 +106,22 @@
                   <th><a href="https://www.orfeo-toolbox.org/">OTB</a></th>
               </tr>
               <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/qgis.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/arcGIS_esri.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/mapinfo.png" height="50">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/otb.png" height="40">
-                  </td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/qgis.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/arcGIS_esri.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/mapinfo.png" height="50"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/otb.png" height="40"></td>
               </tr>
           </table>
       </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td align="center" width="450">
+          <b>Base de données</b>
+      </td>
       <td align="center">
-          <b>Database</b>
           <table>
               <tr>
                   <th><a href="https://www.postgresql.org/">PostgreSql</a></th>
@@ -153,39 +144,9 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-      <td align="center" width="420">
-          <b>Langage de <br>programmation Favori</b>
-      </td>
-      <td align="center">
-          <table>
-              <tr>
-                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-                  <th><a href="https://fr.reactjs.org/">React</a></th>
-                  <th><a href="https://www.postgresql.org/">SQL</a></th>
-              </tr>
-              <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
-                  </td>
-              </tr>
-          </table>
-      </td>
-  </tr>
-</table>
 
 <table>
+  <tr>
       <td align="center" width="500">
           <b>Système d'exploitation</b>
       </td>
@@ -201,6 +162,7 @@
               </tr>
           </table>
       </td>
+    </tr>
 </table>
 
 
