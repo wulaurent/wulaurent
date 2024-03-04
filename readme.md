@@ -70,7 +70,7 @@
 
 <table>
   <tr>
-    <td align="center" width="330">
+    <td align="center" width="332">
       <b>Langages Backend</b>
     </td>
     <td align="center">
