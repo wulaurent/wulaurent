@@ -1,9 +1,3 @@
-<style>
-a {
-    color: red; 
-}
-</style>
-
 <div align=center>
     <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github.png" alt="GitHub" height="200"> 
 </div>
@@ -24,7 +18,7 @@ a {
 
 <h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
 
-<b>Langages de programmation</b>
+<h5>Langages de programmation</h5>
 
 <table>
   <tr>
