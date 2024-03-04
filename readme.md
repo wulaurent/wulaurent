@@ -1,8 +1,5 @@
-<p align="left">
-  <a href="https://github.com/WLaurent-Hub">
-    <img src="https://komarev.com/ghpvc/?username=WLaurent-Hub&color=brightgreen" alt="page views" />
-  </a>
-</p>
+<img align="right" src="https://komarev.com/ghpvc/?username=WLaurent-Hub&color=brightgreen"/>
+
 
 <div align=center>
     <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github.png" alt="GitHub" height="200"> 
@@ -13,6 +10,10 @@
 <br>
 <p align="center">
   <b>Je suis passionné par le développement informatique et la géomatique</b>
+  <h5 align="center">
+    <code><a href="https://www.linkedin.com/in/laurent-wu-3461901a5/" title="LinkedIn"><img width="22" src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linkedin.png"> LinkedIn</a></code>
+    <code><a href="mailto:laurentwu123@gmail.com" title="Gmail"><img width="22" src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/gmail.png"> Gmail</a></code>
+  </h5>
 </p>
 <br>
 
