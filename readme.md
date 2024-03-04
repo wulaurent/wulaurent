@@ -23,7 +23,7 @@
       <td align="center">
           <b>Langage de programmation Favori</b>
           <table width="100">
-              <tr>
+              <tr width="1000">
                   <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
                   <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
                   <th><a href="https://fr.reactjs.org/">React</a></th>
@@ -82,7 +82,6 @@
         </tr>
       </table>
     </td>
-    <td width="10"></td>
     <td align="center">
       <b>Backend</b>
       <table>
