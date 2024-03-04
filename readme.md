@@ -18,6 +18,8 @@
 
 <h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
 
+<br>
+
 <table>
   <tr>
     <td align="center" width="300">
@@ -142,10 +144,20 @@
 </table>
 
 <h2> Statistique <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistic.gif" height="35px">
-
+<br>
+<p align=center>
+  <div align=center>
+    <a>
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=WLaurent-Hub&theme=radical" alt="wlaurent-hub" />
+    </a>
+    <a>
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=WLaurent-Hub&show_icons=true&theme=radical"/>
+    </a>
+  </div>
+</p>
 </h2>
 
-<h2> Contactez moi <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/handshake.gif" height="35px"></h2>
+<h2> Contactez moi <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistics.gif" height="35px"></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/laurent-wu-3461901a5/" target="_blank">
     <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linkedin.png" alt="linkedin" height="auto" width="40"/></code>
