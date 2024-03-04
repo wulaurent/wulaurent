@@ -1,13 +1,15 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=WLaurent-Hub&color=brightgreen"/>
 
-
 <div align=center>
     <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github.png" alt="GitHub" height="200"> 
 </div>
+
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Salut,+c'est+Laurent+%F0%9F%91%8B;Développeur+SIG+Étudiant;Développement+Fullstack;SIG+Webmapping+Geodatabase;QGIS+ArcGis" alt="header" />
 </div>
+
 <br>
+
 <p align="center">
   <b>Je suis passionné par le développement informatique et la géomatique</b>
   <h5 align="center">
@@ -15,6 +17,7 @@
     <code><a href="mailto:laurentwu123@gmail.com" title="Gmail"><img width="22" src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/gmail.png"> Gmail</a></code>
   </h5>
 </p>
+
 <br>
 
 - ♑ Je suis doté d'une créativité, d'une curiosité insatiable et je suis autodidacte. Je prends plaisir à découvrir de nouvelles technologies et à développer en permanence de nouvelles compétences.
@@ -23,7 +26,9 @@
 - 🌱 Je me focus actuellement sur le **développement web SIG (Openlayers/ Mapbox/ Leaflet)** en React et pratique régulièrement le **développement Backend** et **l'intelligence artificielle**.
 - N'hésitez pas à mettre un ❤ ou une ⭐ à mes repository 😄.
 
-<h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
+<h2>Compétences techniques 
+  <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px">
+</h2>
 
 <br>
 
@@ -114,15 +119,9 @@
                   <th><a href="https://sql.sh/">SQL</a></th>
               </tr>
               <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgis.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.svg" height="40">
-                  </td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgis.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.svg" height="40"></td>
               </tr>
           </table>
       </td>
@@ -150,6 +149,7 @@
 </table>
 
 <h2> Statistique <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/handshake.gif" height="35px"></h2>
+<br>
 <p align=center>
   <div align=center>
     <a>
