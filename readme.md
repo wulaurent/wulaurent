@@ -153,8 +153,28 @@
   </tr>
 </table>
 
-<br>
-<br>
+
+<table>
+  <tr>
+      <td align="center">
+          <b>Langage de programmation Favori</b>
+      </td>
+      <td align="center">
+          <table>
+              <tr>
+                <th><a href="https://www.microsoft.com/fr-fr/windows">Windows</a></th>
+                <th><a href="https://www.linux.org/">Linux (Ubuntu)</a></th>
+              </tr>
+              <tr align="center">
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/windows.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linux.png" height="40"></td>
+              </tr>
+          </table>
+      </td>
+  </tr>
+</table>
+
+
 
 <p align="center">
   <b>Frontend</b>
