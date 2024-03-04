@@ -18,24 +18,12 @@
 
 <h2>Compétences techniques <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github-stats.gif" height="35px"></h2>
 
-<p align="center">
-  <b>Langages de programmation</b>
-  <br>
-  <br>
-  <a href="https://fr.wikipedia.org/wiki/Python_(langage)" target="_blank">
-    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" alt="Python" height="40"/></code>
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" alt="JavaScript" height="40"/></code>
-  </a>
-  <a href="https://www.oracle.com/fr/java/" target="_blank">
-    <code><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" alt="Java" height="50"/></code>
-  </a>
-</p>
+<b>Langages de programmation</b>
 
-| Go | Python | Jsonnet | TypeScript | Kubernetes | Docker | Debian | Grafana |
-|---|---|---|---|---|---|---|---|
-| [![Go](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/go) | [![Python](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/python) | [![Jsonnet](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/jsonnet) | [![TypeScript](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/typescript) | [![Kubernetes](https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg)](https://example.com/kubernetes) | [![Docker](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/docker) | [![Debian](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/debian) | [![Grafana](https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg)](https://example.com/grafana) |
+| Python | JavaScript | Java | PHP |
+|--------|------------|------|-----|
+| <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">[Python](https://fr.wikipedia.org/wiki/Python_(langage)) | <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">[TypeScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) | <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">[Java](https://www.oracle.com/fr/java/) | <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">[PHP](https://www.php.net/manual/fr/intro-whatis.php) |
+
 
 
 <br>
