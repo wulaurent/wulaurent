@@ -22,7 +22,7 @@
   <tr>
       <td align="center">
           <b>Langage de programmation Favori</b>
-          <table>
+          <table style="width: 400px;">
               <tr>
                   <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
                   <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
