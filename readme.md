@@ -70,7 +70,7 @@
 
 <table>
   <tr>
-    <td align="center" width="395">
+    <td align="center" width="345">
       <b>Langages Backend</b>
     </td>
     <td align="center">
@@ -94,7 +94,7 @@
 
 <table>
   <tr>
-      <td align="center" width="420">
+      <td align="center" width="400">
           <b>Logiciel SIG</b>
       </td>
       <td align="center">
