@@ -27,26 +27,26 @@ a {
 <b>Langages de programmation</b>
 
 <table>
-<tr>
-    <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-    <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-    <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-    <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
-</tr>
-<tr>
-    <td>
-      <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" width="120" height="40">
-    </td>
-    <td>
-      <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" width="120" height="40">
-    </td>
-    <td>
-      <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" width="120" height="50">
-    </td>
-    <td>
-      <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" width="120" height="50">
-    </td>
-</tr>
+  <tr>
+      <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
+      <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
+      <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
+      <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
+  </tr>
+  <tr align="center">
+      <td>
+        <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
+      </td>
+      <td>
+        <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
+      </td>
+      <td>
+        <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">
+      </td>
+      <td>
+        <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">
+      </td>
+  </tr>
 </table>
 
 
