@@ -33,6 +33,11 @@
   </a>
 </p>
 
+| Go | Python | Jsonnet | TypeScript | Kubernetes | Docker | Debian | Grafana |
+|---|---|---|---|---|---|---|---|
+| [![Go](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/go) | [![Python](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/python) | [![Jsonnet](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/jsonnet) | [![TypeScript](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/typescript) | [![Kubernetes](https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg)](https://example.com/kubernetes) | [![Docker](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/docker) | [![Debian](https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png)](https://example.com/debian) | [![Grafana](https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg)](https://example.com/grafana) |
+
+
 <br>
 <br>
 
