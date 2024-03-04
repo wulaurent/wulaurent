@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://github.com/WLaurent-Hub">
+    <img src="https://komarev.com/ghpvc/?username=WLaurent-Hub&color=brightgreen" alt="page views" />
+  </a>
+</p>
+
 <div align=center>
     <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/github.png" alt="GitHub" height="200"> 
 </div>
