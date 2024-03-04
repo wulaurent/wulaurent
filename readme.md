@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-      <td align="center" width="395">
+      <td align="center" width="380">
           <b>Langage de programmation Favori</b>
       </td>
       <td align="center">
