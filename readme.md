@@ -153,11 +153,41 @@
   </tr>
 </table>
 
-
 <table>
   <tr>
+      <td align="center" width="420">
+          <b>Langage de <br>programmation Favori</b>
+      </td>
       <td align="center">
-          <b>Langage de programmation Favori</b>
+          <table>
+              <tr>
+                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
+                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
+                  <th><a href="https://fr.reactjs.org/">React</a></th>
+                  <th><a href="https://www.postgresql.org/">SQL</a></th>
+              </tr>
+              <tr align="center">
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
+                  </td>
+              </tr>
+          </table>
+      </td>
+  </tr>
+</table>
+
+<table>
+      <td align="center" width="500">
+          <b>Système d'exploitation</b>
       </td>
       <td align="center">
           <table>
@@ -171,7 +201,6 @@
               </tr>
           </table>
       </td>
-  </tr>
 </table>
 
 
