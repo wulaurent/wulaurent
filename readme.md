@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-      <td align="center" width="380">
+      <td align="center" width="379">
           <b>Langage de programmation Favori</b>
       </td>
       <td align="center">
@@ -70,7 +70,7 @@
 
 <table>
   <tr>
-    <td align="center" width="420">
+    <td align="center" width="395">
       <b>Langages Backend</b>
     </td>
     <td align="center">
