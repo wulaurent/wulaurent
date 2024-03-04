@@ -40,6 +40,7 @@
     <td width="10"></td>
     <td align="center">
       <b>Deuxième Tableau</b>
+      <br>
       <table>
          <tr>
           <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
