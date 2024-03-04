@@ -147,7 +147,7 @@
 
 <table>
   <tr>
-      <td align="center" width="470">
+      <td align="center" width="465">
           <b>Système d'exploitation</b>
       </td>
       <td align="center">
