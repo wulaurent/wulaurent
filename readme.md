@@ -20,38 +20,83 @@
 
 <table>
   <tr>
+      <td align="center">
+          <b>Langage de programmation Favori</b>
+          <table>
+              <tr>
+                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
+                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
+                  <th><a href="https://fr.reactjs.org/">React</a></th>
+                  <th><a href="https://www.postgresql.org/">SQL</a></th>
+              </tr>
+              <tr align="center">
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35">
+                  </td>
+                  <td>
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
+                  </td>
+              </tr>
+          </table>
+      </td>
+      <td align="center">
+          <b>Système d'exploitation</b>
+          <table>
+              <tr>
+                <th><a href="https://www.microsoft.com/fr-fr/windows">Windows</a></th>
+                <th><a href="https://www.linux.org/">Linux (Ubuntu)</a></th>
+              </tr>
+              <tr align="center">
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/windows.png" height="40"></td>
+                  <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/linux.png" height="40"></td>
+              </tr>
+          </table>
+      </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td align="center">
-      <b>Premier Tableau</b>
+      <b>Frontend</b>
       <table>
          <tr>
-          <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
+          <th><a href="https://developer.mozilla.org/fr/docs/Web/HTML">HTML</a></th>
+          <th><a href="https://developer.mozilla.org/fr/docs/Web/CSS">CSS</a></th>
           <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-          <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-          <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
+          <th><a href="https://fr.reactjs.org/">React</a></th>
+          <th><a href="https://www.typescriptlang.org/">TypeScript</a></th>
         </tr>
         <tr align="center">
-          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/html.svg" height="40"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/css.svg" height="40"></td>
           <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40"></td>
-          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50"></td>
-          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/react.svg" height="35"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/typescript.png" height="35"></td>
         </tr>
       </table>
     </td>
     <td width="10"></td>
     <td align="center">
-      <b>Deuxième Tableau</b>
+      <b>Backend</b>
       <table>
          <tr>
           <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-          <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-          <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
+          <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">NodeJS</a></th>
           <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
+          <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
         </tr>
         <tr align="center">
           <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40"></td>
-          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40"></td>
-          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/node.svg" height="40"></td>
           <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50"></td>
+          <td><img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50"></td>
         </tr>
       </table>
     </td>
@@ -61,106 +106,47 @@
 <table>
   <tr>
       <td align="center">
-          <b>Premier Tableau</b>
+          <b>Logiciel SIG</b>
           <table>
               <tr>
-                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-                  <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-                  <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
+                  <th><a href="https://fr.wikipedia.org/wiki/QGIS">QGIS</a></th>
+                  <th><a href="https://www.esrifrance.fr/produits/arcgis.aspx">ArcGis</a></th>
+                  <th><a href="https://www.precisely.com/fr/product/precisely-mapinfo/mapinfo-pro">MapInfo</a></th>
+                  <th><a href="https://www.orfeo-toolbox.org/">OTB</a></th>
               </tr>
               <tr align="center">
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/qgis.png" height="40">
                   </td>
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/arcGIS_esri.png" height="40">
                   </td>
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/mapinfo.png" height="50">
                   </td>
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/otb.png" height="40">
                   </td>
               </tr>
           </table>
       </td>
       <td align="center">
-          <b>Deuxième Tableau</b>
+          <b>Database</b>
           <table>
               <tr>
-                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-                  <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-                  <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
+                  <th><a href="https://www.postgresql.org/">PostgreSql</a></th>
+                  <th><a href="https://postgis.net/">PostGIS</a></th>
+                  <th><a href="https://sql.sh/">SQL</a></th>
               </tr>
               <tr align="center">
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgresql.png" height="40">
                   </td>
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/postgis.png" height="40">
                   </td>
                   <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">
-                  </td>
-              </tr>
-          </table>
-      </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <td align="center">
-          <b>Premier Tableau</b>
-          <table>
-              <tr>
-                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-                  <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-                  <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
-              </tr>
-              <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">
-                  </td>
-              </tr>
-          </table>
-      </td>
-      <td align="center">
-          <b>Deuxième Tableau</b>
-          <table>
-              <tr>
-                  <th><a href="https://fr.wikipedia.org/wiki/Python_(langage)">Python</a></th>
-                  <th><a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">JavaScript</a></th>
-                  <th><a href="https://www.oracle.com/fr/java/">Java</a></th>
-                  <th><a href="https://www.php.net/manual/fr/intro-whatis.php">PHP</a></th>
-              </tr>
-              <tr align="center">
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/python.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/js.png" height="40">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/java.png" height="50">
-                  </td>
-                  <td>
-                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/php.svg" height="50">
+                    <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/sql.svg" height="40">
                   </td>
               </tr>
           </table>
