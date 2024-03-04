@@ -156,6 +156,9 @@
   </div>
 </p>
 
+<br>
+<br>
+
 <h2> Contactez moi <img src="https://github.com/WLaurent-Hub/WLaurent-Hub/blob/main/image/statistics.gif" height="35px"></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/laurent-wu-3461901a5/" target="_blank">
