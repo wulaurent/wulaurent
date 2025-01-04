@@ -155,7 +155,7 @@
 <p align=center>
   <div align=center>
     <a>
-      <img width=390 src="https://streak-stats.demolab.com/?user=WLaurent-Hub&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img width=390 src="https://streak-stats.demolab.com/?user=wulaurent&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a>
       <img height=155 width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WLaurent-Hub&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=7&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
